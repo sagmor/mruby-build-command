@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'mruby/build/command'
+
+MRuby::BuildCommand.parse(ARGV).exec
+

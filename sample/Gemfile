@@ -1,0 +1,2 @@
+gem 'mruby-source', path: '../../mruby'
+gem 'mruby-build-command', path: '..'
