@@ -1,2 +1,4 @@
-gem 'mruby-source', path: '../../mruby'
+source 'https://rubygems.org'
+
+gem 'mruby-source', github: 'sagmor/mruby', branch: 'gem'
 gem 'mruby-build-command', path: '..'
