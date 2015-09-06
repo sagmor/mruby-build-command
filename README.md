@@ -1,6 +1,10 @@
-# mruby-build
+# [DEPRECATED] mruby-build
 
-This is an experimental tooling to build projects easily written on MRuby.
+This **was** an experimental tooling to build projects easily written on MRuby.
+
+
+## Important:
+All I learn from this was transferred to [mruby-cli](https://github.com/sagmor/mruby-cli) wich has a better interface and more options.
 
 ## Usage
 
